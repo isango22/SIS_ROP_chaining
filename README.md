@@ -100,17 +100,6 @@ Pokretanje exploit skripte koja se spaja na metu i dohvaća zastavicu:
 python3 exploit.py
 ```
 
----
-
-## 📂 Struktura Repozitorija
-
-```text
-.
-├── exploit.py      # Python skripta za izvođenje ROP napada (pwntools)
-├── split           # Ranjiva binarna datoteka (ROP Emporium izazov)
-├── writeup.md      # Detaljan opis analize i koraka (opcionalno)
-└── README.md       # Ovaj dokument
-```
 
 ---
 
