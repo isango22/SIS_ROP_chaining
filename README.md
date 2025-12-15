@@ -78,6 +78,8 @@ Projekt simulira puni **Attack Kill Chain** proces:
 
 ## 🚀 Kako Pokrenuti
 
+Kako bi mogli prokenuti napad trebate pripremiti dvije virtualne mašine sa specifikacijama koje su opisane na početku dokumenta, također trebate prenijeti split.zip sa ROP Emporiuma na računalo mete (Debian).
+
 ### 1️⃣ Priprema Mete (Debian)
 
 Isključivanje ASLR-a i pokretanje ranjive aplikacije kao mrežnog servisa na portu **1337**:
